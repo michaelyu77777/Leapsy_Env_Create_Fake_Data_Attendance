@@ -2,7 +2,7 @@
 {
     "MongodbServerIP" : "127.0.0.1",
     "DBName":"leapsy_env",
-    "Collection":"check_in_record2",
+    "Collection":"check_in_record",
     "StartDate" : "20210101",
     "EndDate" : "20211231"
     
