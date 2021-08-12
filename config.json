@@ -4,6 +4,6 @@
     "DBName":"leapsy_env",
     "Collection":"check_in_record",
     "StartDate" : "20210101",
-    "EndDate" : "20211231"
+    "EndDate" : "20311231"
     
 }
